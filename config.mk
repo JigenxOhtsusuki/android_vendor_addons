@@ -276,6 +276,11 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
+# Prebuilt packages
+PRODUCT_PACKAGES += \
+    Auxio \
+    ViaBrowser
+    
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI \
